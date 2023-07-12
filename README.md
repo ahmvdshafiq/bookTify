@@ -7,7 +7,7 @@ Below you find all scripts to clone, run and build this application.
 ## Clone repo
 
 ```bash
-git clone https://github.com/KingaMiroslaw/my-books.git
+git clone https://github.com/ahmvdshafiq/my-books.git
 ```
 
 ## Install packages
