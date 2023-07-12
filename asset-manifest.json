@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bookTify/static/css/main.860fdf59.css",
+    "main.js": "/bookTify/static/js/main.0352934c.js",
+    "static/js/787.1e6d998b.chunk.js": "/bookTify/static/js/787.1e6d998b.chunk.js",
+    "static/media/books-lover.svg": "/bookTify/static/media/books-lover.5979f6c1f59592242ae3fd5bd76a6049.svg",
+    "index.html": "/bookTify/index.html",
+    "main.860fdf59.css.map": "/bookTify/static/css/main.860fdf59.css.map",
+    "main.0352934c.js.map": "/bookTify/static/js/main.0352934c.js.map",
+    "787.1e6d998b.chunk.js.map": "/bookTify/static/js/787.1e6d998b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.860fdf59.css",
+    "static/js/main.0352934c.js"
+  ]
+}
