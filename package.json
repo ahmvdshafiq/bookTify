@@ -1,8 +1,8 @@
 {
-  "name": "my-books",
+  "name": "bookTify",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kingamiroslaw.github.io/my-books",
+  "homepage": "https://ahmvdshafiq.github.io/bookTify",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
     "@splidejs/react-splide": "^0.7.12",
@@ -23,6 +23,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
